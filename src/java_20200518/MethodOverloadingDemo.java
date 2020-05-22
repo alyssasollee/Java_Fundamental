@@ -37,8 +37,8 @@ public class MethodOverloadingDemo {
 		m.print(10.34);
 		m.print(true);
 		m.print(1);
-		m.print(1,2);
-		m.print(1,2,3);
+		//m.print(1,2); 왜안되는지 모름이거랑 밑에,, 
+		//m.print(1,2,3);
 		
 		}
 }
